@@ -8,7 +8,7 @@ This is another paragraph
 
 ## More details
 
-here is a list
+here is a list:
 
 -first
 -Second
