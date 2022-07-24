@@ -10,6 +10,6 @@ This is another paragraph
 
 here is a list:
 
--first
--Second
+- first
+- Second
 
