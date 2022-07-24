@@ -1,12 +1,12 @@
 # walkthru2
 
-##Introduction
+## Introduction
 
 sample repo for walkthru 2 of fast.ai course
 
 This is another paragraph
 
-##More details
+## More details
 
 here is a list
 
